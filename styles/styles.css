@@ -1,0 +1,47 @@
+#table {
+    width: 40%;
+}
+img {
+    float: right;
+    cursor: pointer;
+    margin-right: 10px;
+}
+#menu {
+    float: left;
+    width: 15%;
+}
+#menu input {
+    margin-top: 10px;
+}
+#center {
+    float: left;
+    width: 80%;
+}
+#im {
+    float: left;
+    width: 300px;
+}
+#send, #type, #area, #who {
+    position: relative;
+    left: 8%;
+    width: 400px;
+    height: 50px;
+}
+#area {
+    height: 400px;
+}
+#info {
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 4%;
+}
+#msg {
+    height: 30px;
+    cursor: pointer;
+}
+input[type='submit'] {
+    cursor: pointer;
+}
+table {
+    position: absolute;
+}
